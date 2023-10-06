@@ -1,0 +1,30 @@
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/obj/Debug/net7.0/lab_task1.csproj.AssemblyReference.cache
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/obj/Debug/net7.0/lab_task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/obj/Debug/net7.0/lab_task1.AssemblyInfoInputs.cache
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/obj/Debug/net7.0/lab_task1.AssemblyInfo.cs
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/obj/Debug/net7.0/lab_task1.csproj.CoreCompileInputs.cache
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/bin/Debug/net7.0/lab_task1
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/bin/Debug/net7.0/lab_task1.deps.json
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/bin/Debug/net7.0/lab_task1.runtimeconfig.json
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/bin/Debug/net7.0/lab_task1.dll
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/bin/Debug/net7.0/lab_task1.pdb
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/obj/Debug/net7.0/lab_task1.dll
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/obj/Debug/net7.0/refint/lab_task1.dll
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/obj/Debug/net7.0/lab_task1.pdb
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/obj/Debug/net7.0/lab_task1.genruntimeconfig.cache
+/Users/tahfimibnkhan/Projects/myInfo/lab_task1/obj/Debug/net7.0/ref/lab_task1.dll
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/bin/Debug/net7.0/lab_task1
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/bin/Debug/net7.0/lab_task1.deps.json
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/bin/Debug/net7.0/lab_task1.runtimeconfig.json
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/bin/Debug/net7.0/lab_task1.dll
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/bin/Debug/net7.0/lab_task1.pdb
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/obj/Debug/net7.0/lab_task1.csproj.AssemblyReference.cache
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/obj/Debug/net7.0/lab_task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/obj/Debug/net7.0/lab_task1.AssemblyInfoInputs.cache
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/obj/Debug/net7.0/lab_task1.AssemblyInfo.cs
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/obj/Debug/net7.0/lab_task1.csproj.CoreCompileInputs.cache
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/obj/Debug/net7.0/lab_task1.dll
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/obj/Debug/net7.0/refint/lab_task1.dll
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/obj/Debug/net7.0/lab_task1.pdb
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/obj/Debug/net7.0/lab_task1.genruntimeconfig.cache
+/Users/tahfimibnkhan/Desktop/C# fall 23-24/2nd_Week/lab_task1/obj/Debug/net7.0/ref/lab_task1.dll
